@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-Each folder in this repository is a **standalone project** that demonstrates different Python concepts — from interactive games to mathematical visualizations and utility tools. Perfect for learning and portfolio building!
+Each folder in this repository is a **standalone project** that demonstrates different Python concepts — from interactive games to mathematical visualizations and utility tools. Perfect for learning and building your portfolio!
 
 ---
 
@@ -31,6 +31,7 @@ Each folder in this repository is a **standalone project** that demonstrates dif
 |---------|-------------|----------|
 | **Sentence Analysis** | Analyze and manipulate text/sentences | String Operations, NLP Basics |
 | **Barnsley Fern** | Fractal visualization using Python Turtle Graphics | Fractals, IFS, Turtle Graphics, Math |
+| **Rent Calculator** | Calculate rent payments and financial breakdowns | Math Operations, User Input, Data Formatting |
 
 ---
 
@@ -61,6 +62,9 @@ python BARNSLEY\ FERN/fern.py
 
 # Example: Run the Quiz Game
 python QUIZ\ GAME/quiz.py
+
+# Example: Run the Rent Calculator
+python RENT\ CALCULATOR/rent_calculator.py
 ```
 
 ---
@@ -87,6 +91,9 @@ My-Projects/
 ├── BARNSLEY FERN/
 │   ├── fern.py
 │   └── README.md
+├── RENT CALCULATOR/
+│   ├── rent_calculator.py
+│   └── README.md
 └── README.md (this file)
 ```
 
@@ -101,6 +108,7 @@ Through these projects, you'll learn:
 - ✅ **Algorithms**: Randomization, game logic, text analysis
 - ✅ **Graphics**: Turtle graphics for visualizations
 - ✅ **Best Practices**: Code organization, documentation
+- ✅ **Financial Calculations**: Data formatting, mathematical operations
 
 ---
 
@@ -119,6 +127,13 @@ Perfect for beginners learning:
 - Conditional logic
 - User-driven narratives
 - Game flow design
+
+### 💰 Rent Calculator
+A practical utility for financial calculations:
+- User input handling
+- Mathematical operations
+- Currency formatting
+- Data presentation
 
 ---
 
